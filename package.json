@@ -1,0 +1,27 @@
+{
+  "name": "samaki_social_app",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mysql": "^2.18.1",
+    "passport": "^0.6.0",
+    "passport-google-oauth20": "^2.0.0",
+    "pg": "^8.10.0"
+  }
+}

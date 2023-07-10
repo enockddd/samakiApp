@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053855216110",
+    "project_id": "newsamakiapp",
+    "storage_bucket": "newsamakiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053855216110:android:046df625f55f1566f79eff",
+        "android_client_info": {
+          "package_name": "com.example.samaki_social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053855216110-fgeag58jookpsb2reub051ca3s47uiub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samaki_social_app",
+            "certificate_hash": "ea6363b6f91b5ddb71b29b6afb663543fdbd3ea6"
+          }
+        },
+        {
+          "client_id": "1053855216110-a36nuhe3vu9i89khh40i34p6n71jh8fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuGtfKcpsjpPWVyHStjzl55ruTujr60aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053855216110-a36nuhe3vu9i89khh40i34p6n71jh8fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
